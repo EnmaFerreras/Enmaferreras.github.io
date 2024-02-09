@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(226, 227, 227);
+}
+
+#titulo{
+    background-color: rgb(16, 136, 176);
+}
+.botones{
+    height: 40px;
+    width: 120px;
+    background-color: lightgray;
+    
+}
+#resultado{
+    height: auto;
+    width: 100px;
+    padding-top: 5px;
+    border-radius: 10px;
+    font-size: large;
+    background-color: white;
+}
