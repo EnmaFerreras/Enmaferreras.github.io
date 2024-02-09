@@ -2,8 +2,34 @@ body{
     background-color: rgb(226, 227, 227);
 }
 
-#titulo{
+.paginaP{
+    background-color: bisque;
+    text-align:  center;
+}
+.listamenu{
+    background-color: white;
+     height: 30px;
+    list-style-type: none;
+    padding: 0;
+
+}
+.listamenu li{
+    display: inline-block;
+    margin-right:  10px;
+}
+
+
+#boton-desglose{
+    
+    height: 30px;    
+}
+
+#desglose{
+    text-align: left;
+
+    
     background-color: rgb(16, 136, 176);
+    width:   400px;
 }
 .botones{
     height: 40px;
@@ -13,7 +39,7 @@ body{
 }
 #resultado{
     height: auto;
-    width: 100px;
+    width: 70px;
     padding-top: 5px;
     border-radius: 10px;
     font-size: large;
