@@ -5,9 +5,13 @@ body{
 .paginaP{
     background-color: bisque;
     text-align:  center;
+    border-radius: 10px;
+
 }
 .listamenu{
     background-color: white;
+    border-radius: 10px;
+
      height: 30px;
     list-style-type: none;
     padding: 0;
